@@ -8,7 +8,7 @@ app.enable('trust proxy');
 app.set("json spaces",2)
 app.use(cors())
 app.use(secure)
-app.use(express.static("assets"))
+app.use(express.static("index.html"))
 
 app.listen(PORT, () => {
     console.log("Server running on port " + PORT)
