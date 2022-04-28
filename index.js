@@ -11,7 +11,9 @@ app.use(secure)
 app.use(express.static("assets"))
 
 app.listen(PORT, () => {
-    console.log(color("Server running on port " + PORT,'green'))
+    console.log("Server running on port " + PORT)
+    console.log("starting...")
+    console.log("Madeby Rizxyu")
 })
 
 module.exports = app
