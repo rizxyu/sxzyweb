@@ -1,3 +1,3 @@
-### Thanks To 
-[`@xhry`](https://github.com/xhry)
-[`@sandhikagalih`](https://github.com/sandhikagalih)
+SUPPORT ME FOR COFFEE ☕
+
+['saweria'](https://saweria.co/sxzy)
